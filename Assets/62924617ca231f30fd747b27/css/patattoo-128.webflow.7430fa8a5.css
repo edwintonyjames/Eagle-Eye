@@ -2170,7 +2170,7 @@ blockquote {
   height: 110px;
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .testimonials {
@@ -2674,6 +2674,10 @@ blockquote {
   font-family: 'Fa brands 400', sans-serif;
   color: #fff;
   font-size: 18px;
+}
+.brand img{
+  width: 200px;
+  height: auto;
 }
 
 .home-6-team-grid-social-link:hover {
@@ -3578,8 +3582,8 @@ blockquote {
   }
 
   .nav-container {
-    padding-right: 50px;
-    padding-left: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
   }
 
   .licensing-image.small-licensing-image {
