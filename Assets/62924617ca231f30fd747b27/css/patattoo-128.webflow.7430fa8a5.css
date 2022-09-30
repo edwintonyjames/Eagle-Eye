@@ -2676,7 +2676,7 @@ blockquote {
   font-size: 18px;
 }
 .brand img{
-  width: 200px;
+  width: 100px;
   height: auto;
 }
 
@@ -3582,8 +3582,8 @@ blockquote {
   }
 
   .nav-container {
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
   }
 
   .licensing-image.small-licensing-image {
@@ -5570,6 +5570,11 @@ blockquote {
     -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
+    
+  }
+
+  .brand img{
+    width: 60px;
   }
 
   .grid-system {
