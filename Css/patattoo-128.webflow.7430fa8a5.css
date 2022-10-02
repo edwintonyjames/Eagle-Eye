@@ -357,6 +357,12 @@ blockquote {
   align-items: center;
 }
 
+.fimg img{
+  width: 80px;
+  height: auto;
+  padding-top: 40px;
+}
+
 .base-container.mini-container {
   max-width: 900px;
 }
@@ -1104,7 +1110,6 @@ blockquote {
 }
 
 ._404-logo-wrapper {
-  position: fixed;
   left: 0%;
   top: 40px;
   right: 0%;
