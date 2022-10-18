@@ -5577,7 +5577,9 @@ blockquote {
     flex-direction: row;
     
   }
-
+.blog-name{
+  font-size: 18px;
+}
   .brand img{
     width: 60px;
   }
