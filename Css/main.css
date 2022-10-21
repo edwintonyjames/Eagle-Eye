@@ -6744,3 +6744,11 @@ blockquote {
   font-style: normal;
   font-display: swap;
 }
+
+/*Extra css */
+
+.gap{
+  line-height: 50px;
+  align-items: center;
+}
+
