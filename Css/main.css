@@ -3045,9 +3045,13 @@ blockquote {
   text-align: left;
 }
 
+.navg{
+  background-color: #222222;
+}
+
 .about-image-wrapper {
-  height: 450px;
-  background-image: url("https://assets.website-files.com/62924617ca231f30fd747b27/629641d83bd3a079af039fa2_tattoo%20girl%20(2).jpg");
+  height: 534px;
+  background-image: url("../Assets/62924617ca231f1b76747b2a/629641girl.png");
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: scroll;
