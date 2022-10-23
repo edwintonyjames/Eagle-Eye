@@ -6461,6 +6461,9 @@ blockquote {
     -ms-grid-row-span: 1;
     grid-row-end: span 1;
   }
+  .about-background-wrapper{
+    display: none;
+  }
 }
 
 @media screen and (max-width: 479px) {
