@@ -2681,7 +2681,7 @@ blockquote {
   font-size: 18px;
 }
 .brand img{
-  width: 120px;
+  width: 95px;
   height: auto;
 }
 
@@ -5581,7 +5581,13 @@ blockquote {
   font-size: 18px;
 }
   .brand img{
-    width: 60px;
+    width: 140px;
+  }
+  .w-nav-button{
+    position: absolute !important;
+    float: left !important;
+    right: 20px;
+    top: 50px;
   }
 
   .grid-system {
@@ -6495,6 +6501,22 @@ blockquote {
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
     grid-row-end: span 1;
+  }
+  .w-nav-brand{
+    width: 100%;
+    text-align: center;
+    top: 80%;
+    margin-top: 30%;
+  }
+  .w-nav-brand2 img{
+    width:57px !important;
+
+  }
+  .tacm{
+    text-align: center;
+  }
+  .nav-container{
+    padding-top: 15px;
   }
 
   #w-node-_3121cc21-c60c-ac74-24c1-022ca998733a-ed4c998a {
