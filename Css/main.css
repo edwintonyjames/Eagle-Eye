@@ -2243,7 +2243,7 @@ blockquote {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-image: url("/Assets/62924617ca231f1b76747b2a/bannr-img.jpg");
+  background-image: url("Assets/62924617ca231f1b76747b2a/bannr-img.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: fixed;
