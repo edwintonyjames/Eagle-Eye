@@ -8253,7 +8253,7 @@
                     c = r.env(),
                     s = window.location,
                     f = document.createElement("a"),
-                    l = "w--current",
+                    l = "w--curr",
                     d = /index\.(html|php)$/,
                     p = /\/$/;
                 function v(e) {

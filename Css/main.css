@@ -4559,6 +4559,7 @@ blockquote {
   overflow: hidden;
   width: 100%;
   padding: 20px;
+  height: max-content;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -4581,6 +4582,15 @@ blockquote {
   font-size: 140px;
   line-height: 1;
   font-weight: 700;
+}
+.service-icon{
+  transition: all 400ms ease;
+  overflow: hidden;
+}
+
+.service-icon img:hover{
+  box-sizing: content-box;
+  transform: scale(110%);
 }
 
 .home-6-project-collection-list {
@@ -5178,7 +5188,8 @@ blockquote {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  height: 55px;
+  height: auto;
+  width: 100%;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -5187,6 +5198,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  border-radius: 20px;
 }
 
 .about-biege-text-wrapper {
