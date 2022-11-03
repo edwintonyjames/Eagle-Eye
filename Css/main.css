@@ -5163,6 +5163,7 @@ blockquote {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    outline: none;
 }
 .about-image-wrapper {
   height: 534px;
