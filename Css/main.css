@@ -5151,7 +5151,9 @@ blockquote {
   padding-left: 10px;
   text-align: left;
 }
-
+.tse{
+  font-size: 128% !important;
+}
 .navg {
   background-color: #222222;
 }
